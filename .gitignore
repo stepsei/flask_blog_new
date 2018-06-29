@@ -1,0 +1,5 @@
+.env_blog
+env_blog/
+.venv
+venv/
+
